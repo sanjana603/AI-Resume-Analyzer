@@ -1,0 +1,14 @@
+.block-container {
+    padding-top: 2rem;
+}
+
+.stMetric {
+    background-color: #1E293B;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.stAlert {
+    border-radius: 12px;
+}
